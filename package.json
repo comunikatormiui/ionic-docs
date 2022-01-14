@@ -28,7 +28,7 @@
     "@mdx-js/react": "^1.6.22",
     "@mdx-js/tag": "^0.20.3",
     "clsx": "^1.1.1",
-    "concurrently": "^6.2.0",
+    "concurrently": "^6.5.1",
     "docusaurus-plugin-sass": "^0.2.0",
     "prettier": "^2.2.1",
     "react": "^16.8.4",
